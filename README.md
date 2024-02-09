@@ -14,4 +14,4 @@ If you want to keep in touch with my latest updates, subcribe to my [newsletter]
 - Substack: [digitalconfucius](https://digitalconfucius.substack.com/)
 
 # Other Links
-- Coming soon...
+- [dev-tools](https://github.com/digitalconfucius/dev-tools) (Random stuff that helps me work more efficiently)

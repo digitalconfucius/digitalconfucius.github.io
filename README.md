@@ -7,6 +7,7 @@ If you want to keep in touch with my latest updates, subcribe to my [newsletter]
 - [Daily Bible](https://digitalconfucius.github.io/daily-bible/) (Local Daily OSB Bible Reader)
 - 🔮 [Crystal Ball](https://crystal-ball.onrender.com/) (Simple ChatGPT Proxy on Rails)
 - [Jiaanyin 简音](https://github.com/digitalconfucius/jianyin) (Chinese pronunciation workflow)
+- [Slavonic Letters](https://digitalconfucius.github.io/slavonic-letters/) (Learn Slavonic)
 
 # Links
 - Twitter: [@digiconfucius](https://twitter.com/digiconfucius)

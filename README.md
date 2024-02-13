@@ -14,7 +14,7 @@ If you want to keep in touch with my latest updates, subcribe to my [newsletter]
 - GitHub: [>digitalconfucius](https://github.com/digitalconfucius)
 - Substack: [digitalconfucius](https://digitalconfucius.substack.com/)
 
-- [Buy Me a Coffee](https://www.buymeacoffee.com/digitalconfucius)
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/digitalconfucius) 💰💰
 
 # Other Links
 - [dev-tools](https://github.com/digitalconfucius/dev-tools) (Random stuff that helps me work more efficiently)

@@ -1,7 +1,7 @@
 # Digital Confucius
 Digital Confucius Homepage
 
-If you want to keep in touch with my latest updates, subcribe to my [newsletter](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius). You can also support me via ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/digitalconfucius).
+If you want to keep in touch with my latest updates, subcribe to my [newsletter](https://digitalconfucius.beehiiv.com/) and [Twitter](https://twitter.com/digiconfucius). You can also support me via ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/digitalconfucius).
 
 # Selected Projects
 - [Daily Bible](https://digitalconfucius.github.io/daily-bible/) (Local Daily OSB Bible Reader)
@@ -12,9 +12,9 @@ If you want to keep in touch with my latest updates, subcribe to my [newsletter]
 
 # Links
 - Twitter: [@digiconfucius](https://twitter.com/digiconfucius)
-- GitHub: [>digitalconfucius](https://github.com/digitalconfucius)
 - Newsletter: [digitalconfucius](https://digitalconfucius.beehiiv.com/)
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/digitalconfucius) 💰💰
+- GitHub: [>digitalconfucius](https://github.com/digitalconfucius)
 
 # Other Links
 - [dev-tools](https://github.com/digitalconfucius/dev-tools) (Random stuff that helps me work more efficiently)

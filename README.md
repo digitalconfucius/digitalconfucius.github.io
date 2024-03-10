@@ -12,7 +12,7 @@ If you want to keep in touch with my latest updates, subcribe to my [newsletter]
 
 # Links
 - Twitter: [@digiconfucius](https://twitter.com/digiconfucius)
-- Newsletter: [digitalconfucius](https://digitalconfucius.beehiiv.com/)
+- Newsletter: [digitalconfucius @ substack](https://digitalconfucius.substack.com/)
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/digitalconfucius) 💰💰
 - GitHub: [>digitalconfucius](https://github.com/digitalconfucius)
 

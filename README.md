@@ -5,7 +5,7 @@ If you want to keep in touch with my latest updates, subcribe to my [newsletter]
 
 # Selected Projects
 - [Railschan](https://railschan.onrender.com/posts) (Ruby on Rails imageboard that I [resurrected from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection). Give it a try!)
-- - [Chinese Poster](https://digitalconfucius.github.io/chinese-poster/) (See the top 99.99% most frequent Chinese characters on your screen)
+- [Chinese Poster](https://digitalconfucius.github.io/chinese-poster/) (See the top 99.99% most frequent Chinese characters on your screen)
 - 🔮 [Crystal Ball](https://crystal-ball.onrender.com/) (Simple ChatGPT Proxy on Rails)
 - [Jiaanyin 简音](https://github.com/digitalconfucius/jianyin) (Chinese pronunciation workflow)
 

@@ -1,7 +1,7 @@
 # Digital Confucius
 Digital Confucius Homepage
 
-If you want to keep in touch with my latest updates, subcribe to my [newsletter](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius).
+If you want to keep in touch with my latest updates, subscribe to my [newsletter](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius).
 
 # Selected Projects
 - [Railschan](https://railschan.onrender.com/posts) (Ruby on Rails imageboard that I [resurrected from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection). Give it a try!)
@@ -20,3 +20,4 @@ If you want to keep in touch with my latest updates, subcribe to my [newsletter]
 
 # Other Links
 - [dev-tools](https://github.com/digitalconfucius/dev-tools) (Random stuff that helps me work more efficiently)
+- [NEEM](https://neemblog.home.blog/memes/) (Non-existent existentialist memes. 600k followers on FB/IG).

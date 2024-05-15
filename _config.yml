@@ -1,1 +1,3 @@
-theme: minima
+# Assuming this is the content of _config.yml
+markdown: kramdown
+theme: jekyll-theme-minimal

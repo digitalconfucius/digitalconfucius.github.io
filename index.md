@@ -1,3 +1,8 @@
+---
+layout: default
+title: Digital Confucius
+---
+
 # Digital Confucius
 Digital Confucius Homepage
 

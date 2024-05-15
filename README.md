@@ -9,7 +9,6 @@
   gtag('config', 'G-JVFVERMTY0');
 </script>
 
-# Digital Confucius
 Digital Confucius Homepage
 
 If you want to keep in touch with my latest updates, subscribe to my [newsletter](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius).

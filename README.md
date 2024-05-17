@@ -1,15 +1,4 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JVFVERMTY0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-JVFVERMTY0');
-</script>
-
 <!-- Begin README contents. -->
-
 
 <img src="https://github.com/digitalconfucius/digitalconfucius.github.io/assets/156959605/425bb59a-64e7-4ab3-a0e1-5da838f8e343" width="125" />
 
@@ -35,3 +24,13 @@ If you want to keep in touch with my latest updates, check out my [newsletter](h
 # Other Links
 - [dev-tools](https://github.com/digitalconfucius/dev-tools) (Random stuff that helps me work more efficiently)
 - [NEEM](https://neemblog.home.blog/memes/) (Non-existent existentialist memes. 600k followers on FB/IG).
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JVFVERMTY0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JVFVERMTY0');
+</script>

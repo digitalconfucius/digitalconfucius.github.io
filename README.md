@@ -1,17 +1,8 @@
-<!-- _includes/head.html -->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JVFVERMTY0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+**About Me**
 
-  gtag('config', 'G-JVFVERMTY0');
-</script>
+Memelord @neem_official (600k FB/IG). Travel 🏝️, Building 👾, Languages 🇨🇳🇯🇵. Previously tech lead & SWE in social media. Soul-Searching...
 
-Digital Confucius Homepage
-
-If you want to keep in touch with my latest updates, subscribe to my [newsletter](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius).
+If you want to keep in touch with my latest updates, check out my [newsletter](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius).
 
 # Selected Projects
 - [Railschan](https://railschan.onrender.com/posts) (Ruby on Rails imageboard that I [resurrected from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection). Give it a try!)
@@ -31,3 +22,14 @@ If you want to keep in touch with my latest updates, subscribe to my [newsletter
 # Other Links
 - [dev-tools](https://github.com/digitalconfucius/dev-tools) (Random stuff that helps me work more efficiently)
 - [NEEM](https://neemblog.home.blog/memes/) (Non-existent existentialist memes. 600k followers on FB/IG).
+
+<!-- _includes/head.html -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JVFVERMTY0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JVFVERMTY0');
+</script>

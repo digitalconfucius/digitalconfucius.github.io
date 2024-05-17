@@ -1,6 +1,4 @@
-**About Me**
-
-Memelord @neem_official (600k FB/IG). Travel 🏝️, Building 👾, Languages 🇨🇳🇯🇵. Previously tech lead & SWE in social media. Soul-Searching...
+Memelord [@neem_official](https://www.instagram.com/neem_official/) (600k FB/IG). Travel 🏝️, Building 👾, Languages 🇨🇳🇯🇵. Previously tech lead & SWE in social media. Soul-Searching...
 
 If you want to keep in touch with my latest updates, check out my [newsletter](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius).
 

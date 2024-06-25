@@ -4,7 +4,7 @@
 
 Memelord [@neem_official](https://www.instagram.com/neem_official/) (600k FB/IG). Travel 🏝️, Building 👾, Languages 🇨🇳🇯🇵. Previously tech lead & SWE in social media. Soul-Searching...
 
-If you want to keep in touch with my latest updates, check out my [newsletter](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius).
+If you want to keep in touch with my latest updates, check out my [Blog](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius).
 
 # Selected Projects
 - [Railschan](https://railschan.onrender.com/posts) (Ruby on Rails imageboard that I [resurrected from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection). Give it a try!)
@@ -17,7 +17,7 @@ If you want to keep in touch with my latest updates, check out my [newsletter](h
 
 # Links
 - Twitter: [@digiconfucius](https://twitter.com/digiconfucius)
-- Newsletter: [digitalconfucius @ substack](https://digitalconfucius.substack.com/)
+- Blog: [digitalconfucius @ substack](https://digitalconfucius.substack.com/)
 - ☕ [Donate / Buy Me a Coffee](https://www.buymeacoffee.com/digitalconfucius) 💰
 - GitHub: [>digitalconfucius](https://github.com/digitalconfucius)
 

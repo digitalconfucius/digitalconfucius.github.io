@@ -7,10 +7,11 @@ Memelord [@neem_official](https://www.instagram.com/neem_official/) (600k FB/IG)
 If you want to keep in touch with my latest updates, check out my [Blog](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius).
 
 # Selected Projects
-- [Railschan](https://railschan.onrender.com/posts) (Ruby on Rails imageboard that I [resurrected from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection). Give it a try!)
-- [Chinese Poster](https://digitalconfucius.github.io/chinese-poster/) (See the top 99.99% most frequent Chinese characters on your screen)
-- 🔮 [Crystal Ball](https://crystal-ball.onrender.com/) (Simple ChatGPT Proxy on Rails)
-- [Jiaanyin 简音](https://github.com/digitalconfucius/jianyin) (Chinese pronunciation workflow)
+- [Vocabulai](https://vocabulai.onrender.com/): Read any Chinese document using vocabulary you already know!
+- [Railschan](https://railschan.onrender.com/posts): Ruby on Rails imageboard that I [resurrected from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection). Give it a try!
+- [Chinese Poster](https://digitalconfucius.github.io/chinese-poster/): See the top 99.99% most frequent Chinese characters on your screen.
+- [Crystal Ball](https://crystal-ball.onrender.com/): Simple ChatGPT wrapper on Rails
+- [Jiaanyin 简音](https://github.com/digitalconfucius/jianyin): Chinese pronunciation workflow
 
 # Articles
 - [Resurrecting a Rails imageboard from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection).

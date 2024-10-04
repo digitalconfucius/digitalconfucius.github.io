@@ -2,9 +2,9 @@
 
 <img src="https://github.com/digitalconfucius/digitalconfucius.github.io/assets/156959605/425bb59a-64e7-4ab3-a0e1-5da838f8e343" width="125" />
 
-Soulmaxxing. Memelord [@neem_official](https://www.instagram.com/neem_official/) (600k FB/IG). Travel 🏝️, Building 👾, Languages 🇨🇳🇯🇵. Previously tech lead & SWE in social media. 
+Soulmaxxing. Previously SWE/TL at social media company. Travel 🏝️ Building 👾 Languages 🇨🇳🇯🇵. Memelord [@neem_official](https://www.instagram.com/neem_official/) (600k FB/IG). 
 
-If you want to keep in touch with my latest updates, check out my [Blog](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius).
+Latest updates on [Twitter](https://twitter.com/digiconfucius) and [Blog](https://digitalconfucius.substack.com/).
 
 # Projects
 - [Kiku](https://kikuapp.onrender.com/): Supercharge your language exchange with transcriptions and insights!

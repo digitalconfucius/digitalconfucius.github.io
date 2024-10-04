@@ -15,7 +15,7 @@ If you want to keep in touch with my latest updates, check out my [Blog](https:/
 
 # Articles
 - [Burnout and the Year of Soulmaxxing](https://digitalconfucius.substack.com/p/burnout-and-the-year-of-soulmaxxing)
-- [Resurrecting a Rails imageboard from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection).
+- [Resurrecting a Rails imageboard from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection)
 
 # Links
 - Twitter: [@digiconfucius](https://twitter.com/digiconfucius)

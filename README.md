@@ -20,7 +20,6 @@ If you want to keep in touch with my latest updates, check out my [Blog](https:/
 # Links
 - Twitter: [@digiconfucius](https://twitter.com/digiconfucius)
 - Blog: [digitalconfucius @ substack](https://digitalconfucius.substack.com/)
-- ☕ [Donate / Buy Me a Coffee](https://www.buymeacoffee.com/digitalconfucius) 💰
 - GitHub: [>digitalconfucius](https://github.com/digitalconfucius)
 
 # Other Links

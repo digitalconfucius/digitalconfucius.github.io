@@ -6,7 +6,7 @@ Soulmaxxing. Memelord [@neem_official](https://www.instagram.com/neem_official/)
 
 If you want to keep in touch with my latest updates, check out my [Blog](https://digitalconfucius.substack.com/) and [Twitter](https://twitter.com/digiconfucius).
 
-# Selected Projects
+# Projects
 - [Kiku](https://kikuapp.onrender.com/): Supercharge your language exchange with transcriptions and insights!
 - [Vocabulai](https://vocabulai.onrender.com/): Read any Chinese document using vocabulary you already know!
 - [Railschan](https://railschan.onrender.com/posts): Ruby on Rails imageboard that I [resurrected from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection). Give it a try!

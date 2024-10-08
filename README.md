@@ -29,3 +29,6 @@ Latest updates on [Twitter](https://twitter.com/digiconfucius) and [Blog](https:
 # Meta
 
 `bundle exec jekyll serve` // Serve Jekyll Website
+`bundle exec jekyll serve --force_polling`
+
+`bundle exec jekyll clean`

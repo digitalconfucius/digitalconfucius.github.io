@@ -10,7 +10,7 @@ body {
 }
 
 a {
-    color: #2a7ae2;
+    color: #1756a9;
     text-decoration: none;
 }
 
@@ -31,6 +31,7 @@ a:hover {
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    color: #424242;
 }
 
 .site-nav {
@@ -53,39 +54,4 @@ a:hover {
     margin-left: auto;
     padding-right: 30px;
     padding-left: 30px;
-}
-
-.footer-col-wrapper {
-    font-size: 15px;
-    color: #828282;
-    margin-left: -15px;
-}
-
-.footer-col {
-    float: left;
-    margin-bottom: 15px;
-    padding-left: 15px;
-}
-
-.footer-col-1 {
-    width: calc(35% - 15px);
-}
-
-.footer-col-2 {
-    width: calc(20% - 15px);
-}
-
-.footer-col-3 {
-    width: calc(45% - 15px);
-}
-
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
-}
-
-.profile-image {
-    width: 150px;
-    height: auto;
-    margin-bottom: 20px;
 }

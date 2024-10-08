@@ -1,26 +1,50 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
 <body>
-    <header class="site-header">
-        <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-        <nav class="site-nav">
-            <a href="{{ '/' | relative_url }}">Home</a>
-            <a href="{{ '/about' | relative_url }}">About</a>
-        </nav>
+    <header class="site-header" role="banner">
+        <div class="wrapper">
+            <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+            <nav class="site-nav">
+                <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
+                <a class="page-link" href="{{ '/about' | relative_url }}">About</a>
+            </nav>
+        </div>
     </header>
 
-    <main>
-        {{ content }}
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
     </main>
 
-    <footer>
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    <footer class="site-footer h-card">
+        <div class="wrapper">
+            <div class="footer-col-wrapper">
+                <div class="footer-col footer-col-1">
+                    <ul class="contact-list">
+                        <li class="p-name">{{ site.title | escape }}</li>
+                    </ul>
+                </div>
+
+                <div class="footer-col footer-col-2">
+                    <ul class="social-media-list">
+                        <li><a href="https://github.com/{{ site.github_username }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username }}</span></a></li>
+                        <li><a href="https://www.twitter.com/{{ site.twitter_username }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ site.twitter_username }}</span></a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col footer-col-3">
+                    <p>{{ site.description | escape }}</p>
+                </div>
+            </div>
+        </div>
     </footer>
 </body>
 </html>

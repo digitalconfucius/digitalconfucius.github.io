@@ -4,7 +4,7 @@ layout: home
 
 <!-- Begin README contents. -->
 
-<img src="https://github.com/digitalconfucius/digitalconfucius.github.io/assets/156959605/425bb59a-64e7-4ab3-a0e1-5da838f8e343" width="125" />
+<img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Image" class="profile-image" width="125" />
 
 Soulmaxxing. Previously SWE/TL at social media company. Travel 🏝️ Building 👾 Languages 🇨🇳🇯🇵. Memelord [@neem_official](https://www.instagram.com/neem_official/) (600k FB/IG). 
 

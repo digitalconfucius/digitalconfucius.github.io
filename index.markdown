@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 <!-- Begin README contents. -->
 
 <img src="https://github.com/digitalconfucius/digitalconfucius.github.io/assets/156959605/425bb59a-64e7-4ab3-a0e1-5da838f8e343" width="125" />
@@ -26,6 +30,12 @@ Latest updates on [Twitter](https://twitter.com/digiconfucius) and [Blog](https:
 - [dev-tools](https://github.com/digitalconfucius/dev-tools) (Random stuff that helps me work more efficiently)
 - [NEEM](https://neemblog.home.blog/memes/) (Non-existent existentialist memes. 600k followers on FB/IG).
 
-# Meta
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JVFVERMTY0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-`bundle exec jekyll serve` // Serve Jekyll Website
+  gtag('config', 'G-JVFVERMTY0');
+</script>

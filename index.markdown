@@ -6,13 +6,10 @@ layout: home
 
 <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Image" class="profile-image" width="125" />
 
-Building and Traveling in Asia 🌏 
-
-prev SWE @ social media company 
-
-memer [@neem_official](https://www.instagram.com/neem_official/) (600k FB/IG)
-
-languages  🇺🇸🇨🇳🇯🇵 | [https://kikuapp.xyz](http://kikuapp.xyz)
+- Building and Traveling in Asia 🌏 
+- prev SWE @ social media company 
+- memer [@neem_official](https://www.instagram.com/neem_official/) (600k FB/IG)
+- languages  🇺🇸🇨🇳🇯🇵 | [https://kikuapp.xyz](http://kikuapp.xyz)
 
 Latest updates on [Twitter](https://twitter.com/digiconfucius) and [Blog](https://digitalconfucius.substack.com/).
 

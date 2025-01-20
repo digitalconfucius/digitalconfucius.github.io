@@ -17,9 +17,8 @@ Latest updates on [Twitter](https://twitter.com/digiconfucius).
 - [Kiku](https://kikuapp.xyz/): Supercharge your language exchange with transcriptions and insights.
 - [Vocabulai](https://vocabulai.xyz/): Read any Chinese document using vocabulary you already know.
 - [Railschan](https://railschan.onrender.com/posts): Ruby on Rails imageboard that I [resurrected from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection).
-- [Chinese Poster](https://digitalconfucius.github.io/chinese-poster/): See the top 99.99% most frequent Chinese characters on your screen.
-- [Jiaanyin 简音](https://github.com/digitalconfucius/jianyin): Chinese pronunciation workflow
 - [NEEM](https://neemblog.home.blog/memes/) (Non-existent existentialist memes. 600k followers on FB/IG).
+- [Chinese Poster](https://digitalconfucius.github.io/chinese-poster/): See the top 99.99% most frequent Chinese characters on your screen.
 
 # Links
 - Twitter: [@digiconfucius](https://twitter.com/digiconfucius)

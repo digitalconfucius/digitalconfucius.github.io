@@ -6,22 +6,41 @@ layout: home
 
 <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Image" class="profile-image" width="125" />
 
-Building and Traveling in Asia 🌏  \
-prev SWE @ social media company  \
-memer [@neem_official](https://www.instagram.com/neem_official/) (600k FB/IG) \
-languages  🇺🇸🇨🇳🇯🇵  [https://kikuapp.xyz](http://kikuapp.xyz)
+building games with AI 👾 | CA 🇺🇸 → Hong Kong 🇭🇰 | prev. Senior SWE @ social media/FAANG | languages 🇨🇳🇯🇵
 
-Latest updates on [Twitter](https://twitter.com/digiconfucius).
+Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 # Projects
-- [Kiku](https://kikuapp.xyz/): Supercharge your language exchange with transcriptions and insights.
-- [Vocabulai](https://vocabulai.xyz/): Read any Chinese document using vocabulary you already know.
-- [Railschan](https://railschan.onrender.com/posts): Ruby on Rails imageboard that I [resurrected from 2011](https://digitalconfucius.substack.com/p/railschan-resurrection).
-- [NEEM](https://neemblog.home.blog/memes/) (Non-existent existentialist memes. 600k followers on FB/IG).
-- [Chinese Poster](https://digitalconfucius.github.io/chinese-poster/): See the top 99.99% most frequent Chinese characters on your screen.
+### Video Game: Visual Novel Project
+Ongoing. [Tech Preview on Twitter](https://x.com/digiconfucius/status/1946536710634131847)
+
+### KikuApp: Language Exchange & Audio
+[https://kikuapp.xyz/](https://kikuapp.xyz/)
+Supercharge your language exchange with transcriptions and insights.
+
+### Vocabulai: Simple Chinese Learning
+[https://vocabulai.xyz/](https://vocabulai.xyz/)
+Read any Chinese document using vocabulary you already know.
+
+### Railschan: Imageboard from 15 years ago 
+[https://sschan.org/posts](https://sschan.org/posts)
+Resurrecting an imageboard from 2011 in the modern day
+[Blog post](https://digitalconfucius.substack.com/p/railschan-resurrection).
+
+### Crystal Ball (ChatGPT Wrapper)
+[Github Link](https://github.com/digitalconfucius/crystal-ball/tree/main)
+Proof of concept / boilerplate made in Ruby on Rails.
+
+### NEEM (Non-Existent Existentialist Memes)
+[Link](https://neemblog.home.blog/memes/)
+Internet meme page. 600k followers on FB/IG.
+
+### Chinese Poster
+[View it here!](https://digitalconfucius.github.io/chinese-poster/)
+See the top 99.99% most frequent Chinese characters on your screen.
 
 # Links
-- Twitter: [@digiconfucius](https://twitter.com/digiconfucius)
+- Twitter / X: [@digiconfucius](https://twitter.com/digiconfucius)
 - GitHub: [>digitalconfucius](https://github.com/digitalconfucius)
 - Blog: [digitalconfucius @ substack](https://digitalconfucius.substack.com/)
 

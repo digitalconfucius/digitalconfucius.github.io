@@ -15,11 +15,11 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 - Ongoing. [Tech Preview on Twitter](https://x.com/digiconfucius/status/1946536710634131847)
 
 ### KikuApp: Language Exchange & Audio
-- [kikuapp.xyz/](https://kikuapp.xyz/) - Check it out!
+- [kikuapp.xyz/](https://kikuapp.xyz) - Check it out!
 - Supercharge your language exchange with transcriptions and insights.
 
 ### Vocabulai: Simple Chinese Learning
-- [vocabulai.xyz/](https://vocabulai.xyz/) - Check it out!
+- [vocabulai.xyz/](https://vocabulai.xyz) - Check it out!
 - Read any Chinese document using vocabulary you already know.
 
 ### Railschan: Imageboard from 15 years ago 

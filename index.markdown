@@ -6,7 +6,10 @@ layout: home
 
 <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Image" class="profile-image" width="125" />
 
-building games with AI 👾 | CA 🇺🇸 → Hong Kong 🇭🇰 | prev. Senior SWE @ social media/FAANG | languages 🇨🇳🇯🇵
+- building games with AI 👾
+- CA 🇺🇸 → Hong Kong 🇭🇰
+- prev. Senior SWE @ social media/FAANG
+- languages 🇨🇳🇯🇵
 
 Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
@@ -17,14 +20,23 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 ### KikuApp: Language Exchange & Audio
 - [kikuapp.xyz/](https://kikuapp.xyz) - Check it out!
 - Supercharge your language exchange with transcriptions and insights.
+- Translates bilingual conversation audio (e.g. Japanese and English) into bilingual text transcription. Record live via web or mobile.
+- Offers AI-generated insights, answers questions, grammar corrections, to assist in language exchange.
+- Mobile client written in React Native.
 
 ### Vocabulai: Simple Chinese Learning
 - [vocabulai.xyz/](https://vocabulai.xyz) - Check it out!
+- [Example Translation](https://vocabulai.xyz/documents/18).
 - Read any Chinese document using vocabulary you already know.
+- Dictionary database of different Chinese words and their vocabulary levels.
+- Parses words within documents and allows the user to add/remove words from their profile.
+- Translates complex documents into simpler ones with known vocabulary.
 
 ### Railschan: Imageboard from 15 years ago 
 - [sschan.org](https://sschan.org/posts) - Try posting!
-- Resurrecting an imageboard from 2011 in the modern day. [Blog post](https://digitalconfucius.substack.com/p/railschan-resurrection).
+- Resurrecting an ancient imageboard from 2011 in the modern day.
+- Used Docker, remote persistent DB with SQLite3, remote deployments with Render.
+- [Twitter](https://x.com/digiconfucius/status/1765974455300354236), [Blog post](https://digitalconfucius.substack.com/p/railschan-resurrection).
 
 ### Crystal Ball (ChatGPT Wrapper)
 - [Github Link](https://github.com/digitalconfucius/crystal-ball/tree/main)

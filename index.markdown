@@ -12,32 +12,31 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 # Projects
 ### Video Game: Visual Novel Project
-Ongoing. [Tech Preview on Twitter](https://x.com/digiconfucius/status/1946536710634131847)
+- Ongoing. [Tech Preview on Twitter](https://x.com/digiconfucius/status/1946536710634131847)
 
 ### KikuApp: Language Exchange & Audio
-[https://kikuapp.xyz/](https://kikuapp.xyz/)
-Supercharge your language exchange with transcriptions and insights.
+- [kikuapp.xyz/](https://kikuapp.xyz/) - Check it out!
+- Supercharge your language exchange with transcriptions and insights.
 
 ### Vocabulai: Simple Chinese Learning
-[https://vocabulai.xyz/](https://vocabulai.xyz/)
-Read any Chinese document using vocabulary you already know.
+- [vocabulai.xyz/](https://vocabulai.xyz/) - Check it out!
+- Read any Chinese document using vocabulary you already know.
 
 ### Railschan: Imageboard from 15 years ago 
-[https://sschan.org/posts](https://sschan.org/posts)
-Resurrecting an imageboard from 2011 in the modern day
-[Blog post](https://digitalconfucius.substack.com/p/railschan-resurrection).
+- [sschan.org](https://sschan.org/posts) - Try posting!
+- Resurrecting an imageboard from 2011 in the modern day. [Blog post](https://digitalconfucius.substack.com/p/railschan-resurrection).
 
 ### Crystal Ball (ChatGPT Wrapper)
-[Github Link](https://github.com/digitalconfucius/crystal-ball/tree/main)
-Proof of concept / boilerplate made in Ruby on Rails.
+- [Github Link](https://github.com/digitalconfucius/crystal-ball/tree/main)
+- Proof of concept / boilerplate made in Ruby on Rails.
 
 ### NEEM (Non-Existent Existentialist Memes)
-[Link](https://neemblog.home.blog/memes/)
-Internet meme page. 600k followers on FB/IG.
+- [Check us out.](https://neemblog.home.blog/memes/)
+- Internet meme page. 600k followers on FB/IG. We sell T-shirts and other merchandise. 
 
 ### Chinese Poster
-[View it here!](https://digitalconfucius.github.io/chinese-poster/)
-See the top 99.99% most frequent Chinese characters on your screen.
+- [View it here.](https://digitalconfucius.github.io/chinese-poster/)
+- See the top 99.99% most frequent Chinese characters on your screen.
 
 # Links
 - Twitter / X: [@digiconfucius](https://twitter.com/digiconfucius)

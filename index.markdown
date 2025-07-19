@@ -18,14 +18,14 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 - Ongoing. [Tech Preview on Twitter](https://x.com/digiconfucius/status/1946536710634131847)
 
 ### KikuApp: Language Exchange & Audio
-- [kikuapp.xyz/](https://kikuapp.xyz) - Check it out!
+- [kikuapp.xyz](https://kikuapp.xyz) - Check it out!
 - Supercharge your language exchange with transcriptions and insights.
 - Translates bilingual conversation audio (e.g. Japanese and English) into bilingual text transcription. Record live via web or mobile.
 - Offers AI-generated insights, answers questions, grammar corrections, to assist in language exchange.
 - Mobile client written in React Native.
 
 ### Vocabulai: Simple Chinese Learning
-- [vocabulai.xyz/](https://vocabulai.xyz) - Check it out!
+- [vocabulai.xyz](https://vocabulai.xyz) - Check it out!
 - [Example Translation](https://vocabulai.xyz/documents/18).
 - Read any Chinese document using vocabulary you already know.
 - Dictionary database of different Chinese words and their vocabulary levels.

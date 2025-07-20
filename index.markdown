@@ -18,8 +18,12 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 # Projects
 ### Visual Novel Game: "Nepsis" (In Development)
 <div class="image-row">
-<img src="{{ '/assets/images/nepsis-1.png' | relative_url }}" alt="Nepsis Screenshot 1" onclick="openModal(this.src)">
-<img src="{{ '/assets/images/nepsis-2.png' | relative_url }}" alt="Nepsis Screenshot 2" onclick="openModal(this.src)">
+<div class="img-wrapper" onclick="openModal('{{ '/assets/images/nepsis-1.png' | relative_url }}')">
+<img src="{{ '/assets/images/nepsis-1.png' | relative_url }}" alt="Nepsis Screenshot 1" class="anchor-top">
+</div>
+<div class="img-wrapper" onclick="openModal('{{ '/assets/images/nepsis-2.png' | relative_url }}')">
+<img src="{{ '/assets/images/nepsis-2.png' | relative_url }}" alt="Nepsis Screenshot 2" class="anchor-top">
+</div>
 </div>
 
 - Vibe coding a video game using generative AI tools.
@@ -31,8 +35,12 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 ### KikuApp: AI Language Exchange Assistant
 <div class="image-row">
-<img src="{{ '/assets/images/kikuapp-1.png' | relative_url }}" alt="KikuApp Screenshot 1" onclick="openModal(this.src)">
-<img src="{{ '/assets/images/kikuapp-2.PNG' | relative_url }}" alt="KikuApp Screenshot 2" onclick="openModal(this.src)">
+<div class="img-wrapper" onclick="openModal('{{ '/assets/images/kikuapp-1.png' | relative_url }}')">
+<img src="{{ '/assets/images/kikuapp-1.png' | relative_url }}" alt="KikuApp Screenshot 1" class="anchor-top">
+</div>
+<div class="img-wrapper" onclick="openModal('{{ '/assets/images/kikuapp-2.PNG' | relative_url }}')">
+<img src="{{ '/assets/images/kikuapp-2.PNG' | relative_url }}" alt="KikuApp Screenshot 2" class="anchor-top">
+</div>
 </div>
 
 - [Try KikuApp!](https://kikuapp.xyz)
@@ -44,7 +52,9 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 ### Vocabulai: Simplify Chinese Texts
 <div class="image-single">
-<img src="{{ '/assets/images/vocabulai-1.png' | relative_url }}" alt="Vocabulai Screenshot" onclick="openModal(this.src)">
+<div class="img-wrapper" onclick="openModal('{{ '/assets/images/vocabulai-1.png' | relative_url }}')">
+<img src="{{ '/assets/images/vocabulai-1.png' | relative_url }}" alt="Vocabulai Screenshot" class="anchor-top">
+</div>
 </div>
 
 - [Try learning with Vocabulai!](https://vocabulai.xyz) • [Example](https://vocabulai.xyz/documents/18)
@@ -55,7 +65,9 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 ### Railschan: Resurrecting a 15 year old imageboard that I made when I was a kid
 <div class="image-single">
-<img src="{{ '/assets/images/sschan-1.png' | relative_url }}" alt="SSChan Screenshot" onclick="openModal(this.src)">
+<div class="img-wrapper" onclick="openModal('{{ '/assets/images/sschan-1.png' | relative_url }}')">
+<img src="{{ '/assets/images/sschan-1.png' | relative_url }}" alt="SSChan Screenshot" class="anchor-center">
+</div>
 </div>
 
 - [Make a post on sschan.org](https://sschan.org/posts) - Live website!
@@ -67,7 +79,9 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 ### NEEM (Non-Existent Existentialist Memes): 600K+ Followers on FB/IG
 <div class="image-single">
-<img src="{{ '/assets/images/neem-1.jpg' | relative_url }}" alt="NEEM Meme Example" onclick="openModal(this.src)">
+<div class="img-wrapper" onclick="openModal('{{ '/assets/images/neem-1.jpg' | relative_url }}')">
+<img src="{{ '/assets/images/neem-1.jpg' | relative_url }}" alt="NEEM Meme Example" class="anchor-center">
+</div>
 </div>
 
 - [Check us out!](https://neemblog.home.blog/memes/)
@@ -104,14 +118,40 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
   margin: 20px 0;
 }
 
-.image-row img {
+.image-row .img-wrapper {
   width: calc(50% - 5px);
+  height: 800px;
+  overflow: hidden;
   cursor: pointer;
-  transition: transform 0.2s;
+  position: relative;
 }
 
-.image-row img:hover {
+.image-row .img-wrapper img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.2s;
+  position: absolute;
+}
+
+.image-row .img-wrapper img.anchor-top {
+  top: 0;
+}
+
+.image-row .img-wrapper img.anchor-center {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.image-row .img-wrapper img.anchor-bottom {
+  bottom: 0;
+}
+
+.image-row .img-wrapper:hover img {
   transform: scale(1.02);
+}
+
+.image-row .img-wrapper:hover img.anchor-center {
+  transform: translateY(-50%) scale(1.02);
 }
 
 .image-single {
@@ -119,14 +159,41 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
   text-align: center;
 }
 
-.image-single img {
-  max-width: 100%;
+.image-single .img-wrapper {
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
   cursor: pointer;
-  transition: transform 0.2s;
+  position: relative;
+  display: inline-block;
 }
 
-.image-single img:hover {
+.image-single .img-wrapper img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.2s;
+  position: absolute;
+}
+
+.image-single .img-wrapper img.anchor-top {
+  top: 0;
+}
+
+.image-single .img-wrapper img.anchor-center {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.image-single .img-wrapper img.anchor-bottom {
+  bottom: 0;
+}
+
+.image-single .img-wrapper:hover img {
   transform: scale(1.02);
+}
+
+.image-single .img-wrapper:hover img.anchor-center {
+  transform: translateY(-50%) scale(1.02);
 }
 
 /* Modal Styles */
@@ -168,13 +235,40 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
   color: #999;
 }
 
+/* Mobile responsive scaling */
+@media only screen and (max-width: 1200px) {
+  .image-row .img-wrapper,
+  .image-single .img-wrapper {
+    height: 600px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .image-row .img-wrapper,
+  .image-single .img-wrapper {
+    height: 500px;
+  }
+}
+
 @media only screen and (max-width: 700px) {
   .image-row {
     flex-direction: column;
   }
   
-  .image-row img {
+  .image-row .img-wrapper {
     width: 100%;
+    height: 400px;
+  }
+  
+  .image-single .img-wrapper {
+    height: 400px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .image-row .img-wrapper,
+  .image-single .img-wrapper {
+    height: 300px;
   }
 }
 </style>

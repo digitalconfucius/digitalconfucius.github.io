@@ -120,7 +120,7 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 .image-row .img-wrapper {
   width: calc(50% - 5px);
-  max-height: 800px;
+  max-height: 600px;
   overflow: hidden;
   cursor: pointer;
   position: relative;
@@ -129,7 +129,7 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 .image-row .img-wrapper img {
   width: 100%;
   height: auto;
-  max-height: 800px;
+  max-height: 600px;
   transition: transform 0.2s;
   object-fit: cover;
   object-position: top;
@@ -154,7 +154,7 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 .image-single .img-wrapper {
   width: 100%;
-  max-height: 800px;
+  max-height: 600px;
   overflow: hidden;
   cursor: pointer;
   position: relative;
@@ -164,7 +164,7 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 .image-single .img-wrapper img {
   width: 100%;
   height: auto;
-  max-height: 800px;
+  max-height: 600px;
   transition: transform 0.2s;
   object-fit: cover;
   object-position: top;
@@ -253,16 +253,16 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
   
   .image-row .img-wrapper {
     width: 100%;
-    max-height: 400px;
+    max-height: 300px;
   }
   
   .image-single .img-wrapper {
-    max-height: 400px;
+    max-height: 300px;
   }
   
   .image-row .img-wrapper img,
   .image-single .img-wrapper img {
-    max-height: 400px;
+    max-height: 300px;
   }
 }
 

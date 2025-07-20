@@ -17,6 +17,14 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 # Projects
 ### Visual Novel Game: "Nepsis" (In Development)
+
+- Vibe coding a video game using generative AI tools.
+- Enjoy a paranormal horror story with 12 friends that takes place in a modern AI-enhanced Hong Kong.
+- Godot 3.6 w/ GDScript, assets generated with image tools.
+- Reusable, pure game engine with game data loaded via JSON.
+- Custom dialogue editor tool for human-readable screenplay editing written in Python.
+- [Dev update](https://x.com/digiconfucius/status/1946536710634131847)
+
 <div class="image-single">
 <div class="img-wrapper" onclick="openModal('{{ '/assets/images/nepsis-1.png' | relative_url }}')">
 <img src="{{ '/assets/images/nepsis-1.png' | relative_url }}" alt="Nepsis Screenshot 1" class="anchor-top">
@@ -29,14 +37,15 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 </div>
 </div>
 
-- Vibe coding a video game using generative AI tools.
-- Enjoy a paranormal horror story with 12 friends that takes place in a modern AI-enhanced Hong Kong.
-- Godot 3.6 w/ GDScript, assets generated with image tools.
-- Reusable, pure game engine with game data loaded via JSON.
-- Custom dialogue editor tool for human-readable screenplay editing written in Python.
-- [Dev update](https://x.com/digiconfucius/status/1946536710634131847)
-
 ### KikuApp: AI Language Exchange Assistant
+
+- [Try KikuApp!](https://kikuapp.xyz)
+- Enjoy a hands-free language exchange experience with our AI audio assistant - no more note-taking or being glued to your dictionary.
+- Audio transcriptions of mixed language (e.g. Japanese & English) conversations using Whisper API
+- AI insights, grammar corrections, and contextual explanations.
+- React Native mobile app + responsive web client.
+- Local audio capture with server-side processing and LLM integrations.
+
 <div class="image-single">
 <div class="img-wrapper" onclick="openModal('{{ '/assets/images/kikuapp-1.png' | relative_url }}')">
 <img src="{{ '/assets/images/kikuapp-1.png' | relative_url }}" alt="KikuApp Screenshot 1" class="anchor-top">
@@ -49,19 +58,7 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 </div>
 </div>
 
-- [Try KikuApp!](https://kikuapp.xyz)
-- Enjoy a hands-free language exchange experience with our AI audio assistant - no more note-taking or being glued to your dictionary.
-- Audio transcriptions of mixed language (e.g. Japanese & English) conversations using Whisper API
-- AI insights, grammar corrections, and contextual explanations.
-- React Native mobile app + responsive web client.
-- Local audio capture with server-side processing and LLM integrations.
-
 ### Vocabulai: Simplify Chinese Texts
-<div class="image-single">
-<div class="img-wrapper" onclick="openModal('{{ '/assets/images/vocabulai-1.png' | relative_url }}')">
-<img src="{{ '/assets/images/vocabulai-1.png' | relative_url }}" alt="Vocabulai Screenshot" class="anchor-top">
-</div>
-</div>
 
 - [Try learning with Vocabulai!](https://vocabulai.xyz) • [Example](https://vocabulai.xyz/documents/18)
 - No more Duolingo - a Chinese reader for people who prefer to read Confucius and Lao-Tzu in simple language.
@@ -69,12 +66,13 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 - User vocabulary tracking system with HSK-based difficulty levels and 50k+ word mappings
 - Rails backend with PostgreSQL for user profiles and document processing
 
-### Railschan: Resurrecting a 15 year old imageboard that I made when I was a kid
 <div class="image-single">
-<div class="img-wrapper" onclick="openModal('{{ '/assets/images/sschan-1.png' | relative_url }}')">
-<img src="{{ '/assets/images/sschan-1.png' | relative_url }}" alt="SSChan Screenshot" class="anchor-center">
+<div class="img-wrapper" onclick="openModal('{{ '/assets/images/vocabulai-1.png' | relative_url }}')">
+<img src="{{ '/assets/images/vocabulai-1.png' | relative_url }}" alt="Vocabulai Screenshot" class="anchor-top">
 </div>
 </div>
+
+### Railschan: Resurrecting a 15 year old imageboard that I made when I was a kid
 
 - [Make a post on sschan.org](https://sschan.org/posts) - Live website!
 - Experience life in 2011 with your own eyes by revisiting a website I hacked together for my friends.
@@ -83,16 +81,23 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 - Preserved original chan-style UI while adding new features (image uploads).
 - [Dev update](https://x.com/digiconfucius/status/1765974455300354236) • [Tech deep-dive](https://digitalconfucius.substack.com/p/railschan-resurrection)
 
+<div class="image-single">
+<div class="img-wrapper" onclick="openModal('{{ '/assets/images/sschan-1.png' | relative_url }}')">
+<img src="{{ '/assets/images/sschan-1.png' | relative_url }}" alt="SSChan Screenshot" class="anchor-center">
+</div>
+</div>
+
 ### NEEM (Non-Existent Existentialist Memes): 600K+ Followers on FB/IG
+
+- [Check us out!](https://neemblog.home.blog/memes/)
+- Comedy-philosophy meme page.
+- We sell T-shirts and other merchandise. (500+ sales)
+
 <div class="image-single">
 <div class="img-wrapper scaled" onclick="openModal('{{ '/assets/images/neem-1.jpg' | relative_url }}')">
 <img src="{{ '/assets/images/neem-1.jpg' | relative_url }}" alt="NEEM Meme Example">
 </div>
 </div>
-
-- [Check us out!](https://neemblog.home.blog/memes/)
-- Comedy-philosophy meme page.
-- We sell T-shirts and other merchandise. (500+ sales)
 
 ### 99% Chinese Character Digital Frequency Poster
 - [digitalconfucius.github.io/chinese-poster](https://digitalconfucius.github.io/chinese-poster/)

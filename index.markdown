@@ -13,7 +13,7 @@ layout: home
 - previously Senior SWE @ social media / FAANG
 - languages 🇨🇳🇯🇵
 
-Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
+Contact me or follow along for latest updates on [Twitter/X (@digiconfucius)](https://twitter.com/digiconfucius).
 
 # Projects
 ### Visual Novel Game: "Nepsis" (In Development)
@@ -159,7 +159,7 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 }
 
 .image-single {
-  margin: 20px 0;
+  margin: 20px 100px;
   text-align: center;
 }
 
@@ -275,6 +275,10 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
     flex-direction: column;
   }
   
+  .image-single {
+    margin: 20px 30px;
+  }
+  
   .image-row .img-wrapper {
     width: 100%;
     max-height: 300px;
@@ -299,6 +303,10 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 }
 
 @media only screen and (max-width: 500px) {
+  .image-single {
+    margin: 20px 15px;
+  }
+  
   .image-row .img-wrapper,
   .image-single .img-wrapper {
     max-height: 300px;

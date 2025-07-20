@@ -17,12 +17,16 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 # Projects
 ### Visual Novel Game (In Development)
-- Vibe coding a 
+- Vibe coding a video game using generative AI tools.
+- Enjoy a paranormal horror story with 12 friends that takes place in a modern AI-enhanced Hong Kong.
+- Godot 3.6 w/ GDScript, assets generated with image tools.
+- Reusable, pure game engine with game data loaded via JSON.
+- Custom dialogue editor tool for human-readable screenplay editing written in Python.
 - [Dev update](https://x.com/digiconfucius/status/1946536710634131847)
 
 ### KikuApp: AI Language Exchange Assistant
 - [Try KikuApp!](https://kikuapp.xyz)
-- An AI audio assistant for language exchange.
+- Enjoy a hands-free language exchange experience with our AI audio assistant - no more note-taking or being glued to your dictionary.
 - Audio transcriptions of mixed language (e.g. Japanese & English) conversations using Whisper API
 - AI insights, grammar corrections, and contextual explanations.
 - React Native mobile app + responsive web client
@@ -30,18 +34,18 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 ### Vocabulai: Simplify Chinese Texts
 - [Try learning with Vocabulai!](https://vocabulai.xyz) • [Example](https://vocabulai.xyz/documents/18)
-- Read Chinese at your level - automatically simplifies documents to match your vocabulary.
-- AI-powered pipeline that parses Chinese text and replaces complex vocabulary with simpler alternatives
-- User vocabulary tracking system with HSK-based difficulty levels
-- Custom dictionary with 50k+ word mappings and contextual substitutions
+- No more Duolingo - a Chinese reader for people who prefer to read Confucius and Lao-Tzu in simple language.
+- Read at your level - automatically simplifies documents to match your current vocabulary.
+- User vocabulary tracking system with HSK-based difficulty levels and 50k+ word mappings
 - Rails backend with PostgreSQL for user profiles and document processing
 
-### Railschan: Legacy App Resurrection (15 years!)
+### Railschan: Resurrecting a 15 year old imageboard that I made when I was a kid
 - [Make a post on sschan.org](https://sschan.org/posts) - Live website!
-- Resurrected a Rails 3 imageboard from 2011
-- Dockerized deployment on Render with persistent DB ad hoc SQLite3 storage
+- Experience life in 2011 with your own eyes by revisiting a website I hacked together for my friends.
+- Rails 3 imageboard with posts, comments, and tags.
+- Dockerized deployment on Render w/ consistent versions and persistent DB ad hoc SQLite3 storage
 - Preserved original chan-style UI while adding new features (image uploads).
-- [Thread](https://x.com/digiconfucius/status/1765974455300354236) • [Technical deep-dive](https://digitalconfucius.substack.com/p/railschan-resurrection)
+- [Dev update](https://x.com/digiconfucius/status/1765974455300354236) • [Tech deep-dive](https://digitalconfucius.substack.com/p/railschan-resurrection)
 
 ### Crystal Ball: Rails + OpenAI Boilerplate
 - [View the code](https://github.com/digitalconfucius/crystal-ball/tree/main)
@@ -55,8 +59,15 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 ### Chinese Character Frequency Visualizer
 - [digitalconfucius.github.io/chinese-poster](https://digitalconfucius.github.io/chinese-poster/)
+- A "Tim Ferriss" character-learning poster that you stick to your browser rather than your refrigerator.
 - Learn Chinese by staring at characters every day until you learn them.
 - View the most common characters covering 99.99% of typical text.
+
+### jianyin 简音
+- [Try jianyin.](https://digitalconfucius.com/jianyin/)
+- A proof-of-concept of Chinese character transcription without tonal markers.
+- Read Chinese like Chinese people would - left-to-right, without tonal awareness.
+- [Read the explanation](https://github.com/digitalconfucius/jianyin/)
 
 # Links
 - Twitter / X: [@digiconfucius](https://twitter.com/digiconfucius)

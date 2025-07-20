@@ -6,7 +6,9 @@ layout: home
 
 <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Image" class="profile-image" width="125" />
 
-- building games with AI 👾
+**Building AI-powered games and language tools from Hong Kong**
+
+- making games w/ gen-ai 👾
 - CA 🇺🇸 → Hong Kong 🇭🇰
 - prev. Senior SWE @ social media/FAANG
 - languages 🇨🇳🇯🇵
@@ -18,14 +20,14 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 - Ongoing. [Tech Preview on Twitter](https://x.com/digiconfucius/status/1946536710634131847)
 
 ### KikuApp: Language Exchange & Audio
-- [kikuapp.xyz](https://kikuapp.xyz) - Check it out!
+- [Try KikuApp](https://kikuapp.xyz)
 - Supercharge your language exchange with transcriptions and insights.
 - Translates bilingual conversation audio (e.g. Japanese and English) into bilingual text transcription. Record live via web or mobile.
 - Offers AI-generated insights, answers questions, grammar corrections, to assist in language exchange.
 - Mobile client written in React Native.
 
 ### Vocabulai: Simple Chinese Learning
-- [vocabulai.xyz](https://vocabulai.xyz) - Check it out!
+- [Try Vocabulai](https://vocabulai.xyz)
 - [Example Translation](https://vocabulai.xyz/documents/18).
 - Read any Chinese document using vocabulary you already know.
 - Dictionary database of different Chinese words and their vocabulary levels.
@@ -33,21 +35,21 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 - Translates complex documents into simpler ones with known vocabulary.
 
 ### Railschan: Imageboard from 15 years ago 
-- [sschan.org](https://sschan.org/posts) - Try posting!
+- [Try posting on sschan.org!](https://sschan.org/posts)
 - Resurrecting an ancient imageboard from 2011 in the modern day.
 - Used Docker, remote persistent DB with SQLite3, remote deployments with Render.
 - [Twitter](https://x.com/digiconfucius/status/1765974455300354236), [Blog post](https://digitalconfucius.substack.com/p/railschan-resurrection).
 
 ### Crystal Ball (ChatGPT Wrapper)
-- [Github Link](https://github.com/digitalconfucius/crystal-ball/tree/main)
+- [View the code on Github](https://github.com/digitalconfucius/crystal-ball/tree/main)
 - Proof of concept / boilerplate made in Ruby on Rails.
 
-### NEEM (Non-Existent Existentialist Memes)
-- [Check us out.](https://neemblog.home.blog/memes/)
-- Internet meme page. 600k followers on FB/IG. We sell T-shirts and other merchandise. 
+### NEEM (Non-Existent Existentialist Memes) - 600K followers on FB/I
+- [Check us out](https://neemblog.home.blog/memes/)
+- Internet meme page. We sell T-shirts and other merchandise. 
 
 ### Chinese Poster
-- [View it here.](https://digitalconfucius.github.io/chinese-poster/)
+- [Start learning Chinese](https://digitalconfucius.github.io/chinese-poster/)
 - See the top 99.99% most frequent Chinese characters on your screen.
 
 # Links

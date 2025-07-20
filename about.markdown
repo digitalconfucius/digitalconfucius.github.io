@@ -14,6 +14,11 @@ permalink: /about/
 - previously Senior SWE @ social media / FAANG
 - languages 🇨🇳🇯🇵
 
+# Links
+- Twitter / X: [@digiconfucius](https://twitter.com/digiconfucius)
+- GitHub: [>digitalconfucius](https://github.com/digitalconfucius)
+- Blog: [digitalconfucius @ substack](https://digitalconfucius.substack.com/)
+
 # Message
 
 Welcome to the about page! Enjoy this clip from Tatami Galaxy (四畳半神話大系).
@@ -23,11 +28,6 @@ Welcome to the about page! Enjoy this clip from Tatami Galaxy (四畳半神話�
 And a favorite song 私生活 from Sheena Ringo / Tokyo Jihen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rz3iNCJLs9U?si=sunMP15r12q3lIWX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# Links
-- Twitter / X: [@digiconfucius](https://twitter.com/digiconfucius)
-- GitHub: [>digitalconfucius](https://github.com/digitalconfucius)
-- Blog: [digitalconfucius @ substack](https://digitalconfucius.substack.com/)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JVFVERMTY0"></script>

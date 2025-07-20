@@ -120,7 +120,7 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 .image-row .img-wrapper {
   width: calc(50% - 5px);
-  height: 800px;
+  max-height: 800px;
   overflow: hidden;
   cursor: pointer;
   position: relative;
@@ -129,29 +129,22 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 .image-row .img-wrapper img {
   width: 100%;
   height: auto;
+  max-height: 800px;
   transition: transform 0.2s;
-  position: absolute;
-}
-
-.image-row .img-wrapper img.anchor-top {
-  top: 0;
+  object-fit: cover;
+  object-position: top;
 }
 
 .image-row .img-wrapper img.anchor-center {
-  top: 50%;
-  transform: translateY(-50%);
+  object-position: center;
 }
 
 .image-row .img-wrapper img.anchor-bottom {
-  bottom: 0;
+  object-position: bottom;
 }
 
 .image-row .img-wrapper:hover img {
   transform: scale(1.02);
-}
-
-.image-row .img-wrapper:hover img.anchor-center {
-  transform: translateY(-50%) scale(1.02);
 }
 
 .image-single {
@@ -161,7 +154,7 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 .image-single .img-wrapper {
   width: 100%;
-  height: 800px;
+  max-height: 800px;
   overflow: hidden;
   cursor: pointer;
   position: relative;
@@ -171,29 +164,22 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 .image-single .img-wrapper img {
   width: 100%;
   height: auto;
+  max-height: 800px;
   transition: transform 0.2s;
-  position: absolute;
-}
-
-.image-single .img-wrapper img.anchor-top {
-  top: 0;
+  object-fit: cover;
+  object-position: top;
 }
 
 .image-single .img-wrapper img.anchor-center {
-  top: 50%;
-  transform: translateY(-50%);
+  object-position: center;
 }
 
 .image-single .img-wrapper img.anchor-bottom {
-  bottom: 0;
+  object-position: bottom;
 }
 
 .image-single .img-wrapper:hover img {
   transform: scale(1.02);
-}
-
-.image-single .img-wrapper:hover img.anchor-center {
-  transform: translateY(-50%) scale(1.02);
 }
 
 /* Modal Styles */
@@ -239,14 +225,24 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 @media only screen and (max-width: 1200px) {
   .image-row .img-wrapper,
   .image-single .img-wrapper {
-    height: 600px;
+    max-height: 600px;
+  }
+  
+  .image-row .img-wrapper img,
+  .image-single .img-wrapper img {
+    max-height: 600px;
   }
 }
 
 @media only screen and (max-width: 900px) {
   .image-row .img-wrapper,
   .image-single .img-wrapper {
-    height: 500px;
+    max-height: 500px;
+  }
+  
+  .image-row .img-wrapper img,
+  .image-single .img-wrapper img {
+    max-height: 500px;
   }
 }
 
@@ -257,18 +253,28 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
   
   .image-row .img-wrapper {
     width: 100%;
-    height: 400px;
+    max-height: 400px;
   }
   
   .image-single .img-wrapper {
-    height: 400px;
+    max-height: 400px;
+  }
+  
+  .image-row .img-wrapper img,
+  .image-single .img-wrapper img {
+    max-height: 400px;
   }
 }
 
 @media only screen and (max-width: 500px) {
   .image-row .img-wrapper,
   .image-single .img-wrapper {
-    height: 300px;
+    max-height: 300px;
+  }
+  
+  .image-row .img-wrapper img,
+  .image-single .img-wrapper img {
+    max-height: 300px;
   }
 }
 </style>

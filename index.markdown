@@ -17,10 +17,13 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 # Projects
 ### Visual Novel Game: "Nepsis" (In Development)
-<div class="image-row">
+<div class="image-single">
 <div class="img-wrapper" onclick="openModal('{{ '/assets/images/nepsis-1.png' | relative_url }}')">
 <img src="{{ '/assets/images/nepsis-1.png' | relative_url }}" alt="Nepsis Screenshot 1" class="anchor-top">
 </div>
+</div>
+
+<div class="image-single">
 <div class="img-wrapper" onclick="openModal('{{ '/assets/images/nepsis-2.png' | relative_url }}')">
 <img src="{{ '/assets/images/nepsis-2.png' | relative_url }}" alt="Nepsis Screenshot 2" class="anchor-top">
 </div>
@@ -34,10 +37,13 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 - [Dev update](https://x.com/digiconfucius/status/1946536710634131847)
 
 ### KikuApp: AI Language Exchange Assistant
-<div class="image-row">
+<div class="image-single">
 <div class="img-wrapper" onclick="openModal('{{ '/assets/images/kikuapp-1.png' | relative_url }}')">
 <img src="{{ '/assets/images/kikuapp-1.png' | relative_url }}" alt="KikuApp Screenshot 1" class="anchor-top">
 </div>
+</div>
+
+<div class="image-single">
 <div class="img-wrapper" onclick="openModal('{{ '/assets/images/kikuapp-2.PNG' | relative_url }}')">
 <img src="{{ '/assets/images/kikuapp-2.PNG' | relative_url }}" alt="KikuApp Screenshot 2" class="anchor-top">
 </div>
@@ -79,8 +85,8 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
 
 ### NEEM (Non-Existent Existentialist Memes): 600K+ Followers on FB/IG
 <div class="image-single">
-<div class="img-wrapper" onclick="openModal('{{ '/assets/images/neem-1.jpg' | relative_url }}')">
-<img src="{{ '/assets/images/neem-1.jpg' | relative_url }}" alt="NEEM Meme Example" class="anchor-center">
+<div class="img-wrapper scaled" onclick="openModal('{{ '/assets/images/neem-1.jpg' | relative_url }}')">
+<img src="{{ '/assets/images/neem-1.jpg' | relative_url }}" alt="NEEM Meme Example">
 </div>
 </div>
 
@@ -182,6 +188,19 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
   transform: scale(1.02);
 }
 
+/* Scaled image class - shows full image proportionally scaled */
+.image-single .img-wrapper.scaled {
+  max-height: 600px;
+}
+
+.image-single .img-wrapper.scaled img {
+  width: 100%;
+  height: auto;
+  max-height: 600px;
+  object-fit: contain;
+  object-position: center;
+}
+
 /* Modal Styles */
 .modal {
   display: none;
@@ -260,8 +279,16 @@ Latest updates on [Twitter / X](https://twitter.com/digiconfucius).
     max-height: 300px;
   }
   
+  .image-single .img-wrapper.scaled {
+    max-height: 300px;
+  }
+  
   .image-row .img-wrapper img,
   .image-single .img-wrapper img {
+    max-height: 300px;
+  }
+  
+  .image-single .img-wrapper.scaled img {
     max-height: 300px;
   }
 }
